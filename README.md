@@ -30,3 +30,4 @@ docker run --rm -e [Ver variáveis de ambiente abaixo] seniocaires/c3270-web-aut
  - AUTORIZACAO_NOME_TOKEN : Nome Cookie com o Token de acesso.
  - AUTORIZACAO_NOME_HEADER : Nome do Header do Token (ex: Authorization)
  - CONTEXTO: Context Path da aplicação (ex:/terminal)
+ 
